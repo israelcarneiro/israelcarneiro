@@ -30,7 +30,7 @@ Sou desenvolvedor front-end com uma vasta experiência com React e com muita von
   width="450" 
   height="155"
   align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=israelcarneiro&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
+  src="https://github-readme-stats.vercel.app/api?username=israelcarneiro&show_icons=true&theme=tokyonight&count_private=true&"
   alt="Israel Carneiro Github Stats" 
   />
 <img 
