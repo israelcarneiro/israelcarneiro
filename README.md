@@ -122,4 +122,5 @@ Algumas das tecnologias que eu mais utilizo ou utilizei em projetos passados.
 
 
  ## 💡🤔 Principais Projetos
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=israelcarneiro&repo=langmerfisio&theme=tokyonight)](https://github.com/israelcarneiro/langmerfisio)         
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=israelcarneiro&repo=langmerfisio&theme=tokyonight)](https://github.com/israelcarneiro/langmerfisio)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=israelcarneiro&repo=ignite-react-js-challenges&theme=tokyonight)](https://github.com/israelcarneiro/ignite-react-js-challenges)     
