@@ -9,6 +9,8 @@ Sou desenvolvedor front-end com uma vasta experiência com React e com muita von
 - 🧑‍💼 Estou a procura de uma oportunidade como desenvolvedor web
 - ⚡ Pergunta aleatória: Você prefere um motor 2jz ou rb26? 🤣
 
+🚧🧑‍💻⚠️ Eu ainda estou organizando melhor meu github, se caso você encontrar algo desorganizado peço desculpas 🚧🧑‍💻⚠️
+
 ### 😊 Quer entrar em contato comigo ? 
 
 <a href="https://github.com/israelcarneiro">
