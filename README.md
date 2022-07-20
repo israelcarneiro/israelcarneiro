@@ -6,6 +6,7 @@ Sou desenvolvedor front-end com uma vasta experiência com React e com muita von
 ### ⚡Alguns fatos curiosos
 - 🔭 Atualmente estou trabalhando no meu site pessoal
 - 🌱 Estou aprendendo tailwindcss com NextJS
+- 🧑‍💼 Estou a procura de uma oportunidade como desenvolvedor web
 - ⚡ Pergunta aleatória: Você prefere um motor 2jz ou rb26? 🤣
 
 ### 😊 Quer entrar em contato comigo ? 
@@ -27,14 +28,14 @@ Sou desenvolvedor front-end com uma vasta experiência com React e com muita von
   width="450" 
   height="155"
   align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=israelcarneiro&show_icons=true&theme=tokyonight&count_private=true" 
+  src="https://github-readme-stats.vercel.app/api?username=israelcarneiro&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
   alt="Israel Carneiro Github Stats" 
   />
 <img 
 width="340" 
 height="155" 
 align="center" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=israelcarneiro&show_icons=true&theme=tokyonight&layout=compact&count_private=true" />
+src="https://github-readme-stats.vercel.app/api/top-langs?username=israelcarneiro&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true" />
 </p>
 
 
