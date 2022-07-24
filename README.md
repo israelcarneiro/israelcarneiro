@@ -6,7 +6,6 @@ Sou desenvolvedor front-end com uma vasta experiência com React e com muita von
 ### ⚡Alguns fatos curiosos
 - 🔭 Atualmente estou trabalhando no meu site pessoal
 - 🌱 Estou aprendendo tailwindcss com NextJS
-- 🧑‍💼 Estou a procura de uma oportunidade como desenvolvedor web
 - ⚡ Pergunta aleatória: Você prefere um motor 2jz ou rb26? 🤣
 
 🚧🧑‍💻⚠️ Eu ainda estou organizando melhor meu github, se caso você encontrar algo desorganizado peço desculpas 🚧🧑‍💻⚠️
